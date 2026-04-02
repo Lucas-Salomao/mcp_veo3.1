@@ -1,3 +1,7 @@
 mcp
 google-genai
 google-cloud-storage
+starlette
+uvicorn
+python-dotenv
+httpx
